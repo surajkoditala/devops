@@ -1,4 +1,3 @@
-ghis is to test git class 1
 gnd line
 
-this is third commit
+ghis is third commit
